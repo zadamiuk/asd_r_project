@@ -1,4 +1,4 @@
-# asd_r_project
+# Autism Spectrum Disorder Screeening App analysis
 Shiny app displaying analysis of Autism Spectrum Disorder data. 
 
 Link to app:
